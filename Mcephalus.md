@@ -5,7 +5,7 @@
 
 # *Mugil cephalus*
   
-El proyecto de Doctorado titulado Filopatría de [*Mugil cephalus*](http://www.fao.org/fishery/culturedspecies/Mugil_cephalus/en) en el Golfo de México se realiza en la [UAM Iztapalapa](http://www.izt.uam.mx/), en el Laboratorio de Biología Molecular ubicado en el edificio R-007.
+El proyecto de Doctorado titulado "Filopatría de [*Mugil cephalus*](http://www.fao.org/fishery/culturedspecies/Mugil_cephalus/en) en el Golfo de México" se realiza en la [UAM Iztapalapa](http://www.izt.uam.mx/), en el Laboratorio de Biología Molecular ubicado en el edificio R-007.
 
 
 La lisa se distribuye ampliamente en todo el mundo excepto en las regiones polares (Fig. 1), aunque se ha reportado que la distribución potencial para esta especie en el sur del Atlántico del continente Americano es ocupada por [*Mugil liza*](http://fishbase.org/summary/1090), otra del genero que se encuentra clasificada dentro del [complejo de especies de *M. cephalus*](https://link.springer.com/content/pdf/10.1007%2Fs11160-012-9263-9.pdf). 
