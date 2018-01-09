@@ -17,6 +17,9 @@ La lisa se distribuye ampliamente en todo el mundo excepto en las regiones polar
 
 <p align="center">Fig. 1. Distribución potencial de <i>Mugil cephalus</i>.</p>
 
+La lisa habita zonas litorales y cuerpos de agua protegidos pero realizá migraciones reproductivas que se llevan acabo de forma sincronica en todo el Golfo de México, estas migraciones ponen en duda hacia donde regresan los organismo después de esta migración. Las migraciones pueden llegar a observarse de forma masiva en algunos sitios del Golfo de México como se puede apresiar el en video de la siguiente liga:
+
+<p align="center"><a href="https://www.youtube.com/watch?v=PRJjjt98lfs" target="_blank"><img src="https://d32swstyppi9nx.cloudfront.net/blog/wp-content/uploads/2017/09/mullet-run-header-862x451.jpg" alt="Migraciones reproductivas" width="240" height="180" border="10"></a></p>
 
 Los organismos empleados en este proyecto son adultos recuperados de la pesquería comercial y de colectas de campo, en sitios donde no se explota comercialmente (Fig. 2), en todo el Golfo de México. 
 
