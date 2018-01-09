@@ -8,7 +8,7 @@ Los organismos empleados en este proyecto son adultos recuperados de la pesquer√
 
 
 <div style="text-align: center">
-<img src="http://www.fao.org/figis/servlet/ServerFileServlet?f=figis/species/images/Mugil/mug_679_3050_2.jpg"/ width=90%></div>
+<img src="http://www.fao.org/figis/servlet/ServerFileServlet?f=figis/species/images/Mugil/mug_679_3050_2.jpg"/ width=60%></div>
 
 <center>Fig. 1. Adulto de lisa, *Mugil cephalus*.</center>
 
