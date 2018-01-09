@@ -1,5 +1,5 @@
 <div style="text-align: right">
-<img src="http://dcsh.izt.uam.mx/cen_doc/cede/Logos_UAM/variacion6Izt.png"/ width=100%></div>
+<img src="http://dcsh.izt.uam.mx/cen_doc/cede/Logos_UAM/variacion6Izt.png"/ width=60%></div>
 
 # *Mugil cephalus* 
 El proyecto de Doctorado titulado Filopatría de [*Mugil cephalus*](http://www.fao.org/fishery/culturedspecies/Mugil_cephalus/en) en el Golfo de México se realiza en la [UAM Iztapalapa](http://www.izt.uam.mx/), en el Laboratorio de Biología Molecular ubicado en el edificio R-007.
