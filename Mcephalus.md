@@ -13,7 +13,7 @@ Los organismos empleados en este proyecto son adultos recuperados de la pesquer�
 <center>Fig. 1. Adulto de lisa, *Mugil cephalus*.</center>
 
 
-Esta especie se distribuye ampliamente en todo el mundo excepto en las regiones polares (Fig. 2), aunque se ha encontrado que la distribución potencial para esta especie en el sur del Atlántico del continente americano es ocupado por ciertas zonas es ocupada por [*Mugil liza*](http://fishbase.org/summary/1090), otra del genero que se encuentra clasificada dentro del [complejo de especies](https://es.wikipedia.org/wiki/Complejo_de_especies) de *Mugil cephalus*. 
+Esta especie se distribuye ampliamente en todo el mundo excepto en las regiones polares (Fig. 2), aunque se ha encontrado que la distribución potencial para esta especie en el sur del Atlántico del continente americano es ocupado por ciertas zonas es ocupada por [*Mugil liza*](http://fishbase.org/summary/1090), otra del genero que se encuentra clasificada dentro del [complejo de especies](https://es.wikipedia.org/wiki/Complejo_de_especies) de [*M. cephalus*](https://link.springer.com/content/pdf/10.1007%2Fs11160-012-9263-9.pdf). 
  
 <div style="text-align: center">
 <img src="http://www.ittiofauna.org/webmuseum/pesciossei/mugiliformes/mugilidae/mugil/mugilcephalus/images/ar_m_cephalus.jpg"/ width=100%></div>
